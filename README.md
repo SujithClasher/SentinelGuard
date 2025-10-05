@@ -1,55 +1,143 @@
-# Sentinel Guard 🛡️
+# 🛡️ Sentinel Guard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Platform: Android">
-  <img src="https://img.shields.io/badge/API-21+-blue" alt="API Level">
+  <img src="https://img.shields.io/badge/Platform-Android-brightgreen" alt="Platform: Android">
+  <img src="https://img.shields.io/badge/API%20Level-21+-blue" alt="API Level">
   <img src="https://img.shields.io/badge/Flutter-3.2.0+-blue" alt="Flutter Version">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-  <img src="https://img.shields.io/badge/Demo-App-orange" alt="Demo App">
+  <img src="https://img.shields.io/badge/Status-Demo-orange" alt="Demo Status">
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs Welcome">
 </p>
 
 <p align="center">
-  <strong>🎬 Professional Demo | Parental Control App with Material Design 3</strong>
+  <strong>🎬 Professional Parental Control Demo | Material Design 3 | Flutter</strong>
 </p>
 
 <p align="center">
-  <a href="#-installation">📱 Download APK</a> •
+  <a href="#-installation">📦 Install</a> •
   <a href="#-features">✨ Features</a> •
-  <a href="#-getting-started">🚀 Getting Started</a> •
-  <a href="#-demo">🎮 Demo</a> •
-  <a href="#-screenshots">📸 Screenshots</a>
+  <a href="#-demo">🎬 Demo</a> •
+  <a href="#-usage">🚀 Usage</a> •
+  <a href="#-contributing">🤝 Contributing</a> •
+  <a href="#-license">📄 License</a>
 </p>
 
-## 📱 Download & Installation
+## 📋 Table of Contents
 
-### 📱 APK Download & Demo Video
+- [🛡️ Introduction](#-introduction)
+- [✨ Features](#-features)
+- [📱 Installation](#-installation)
+- [🎬 Demo](#-demo)
+- [🚀 Usage](#-usage)
+- [⚙️ Configuration](#️-configuration)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🤝 Contributing](#-contributing)
+- [🗺️ Roadmap](#️-roadmap)
+- [📄 License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
+
+## 🛡️ Introduction
+
+**Sentinel Guard** is a comprehensive **parental control demo application** built with Flutter, showcasing modern mobile app development practices and Material Design 3 implementation. This demo application demonstrates advanced UI/UX patterns for parental monitoring and child safety features.
+
+### 🎯 What It Does
+
+Sentinel Guard provides a complete demonstration of parental control interfaces including:
+- **Real-time activity monitoring** with realistic mock data
+- **App usage tracking** and management controls
+- **Screen time management** with scheduling capabilities
+- **Content filtering** and web safety features
+- **Kids mode launcher** with PIN protection
+- **Premium feature showcases** with upgrade flows
+
+### 🚀 Key Features
+
+- **🎨 Material Design 3** - Modern, accessible UI components
+- **📱 Kids Mode** - Child-friendly launcher interface
+- **⏰ Screen Time Management** - Usage tracking and limits
+- **🔒 PIN Protection** - Secure access controls
+- **📊 Analytics Dashboard** - Usage statistics and reports
+- **🎯 App Controls** - Block/allow app permissions
+- **🌐 Web Filtering** - Content category management
+- **⭐ Premium Features** - Subscription model showcase
+
+### 💡 Why It's Useful
+
+This demo serves as an excellent **portfolio piece** and **learning resource** for:
+- **Flutter developers** learning advanced state management
+- **UI/UX designers** exploring parental control interfaces
+- **Product managers** understanding feature requirements
+- **Students** studying mobile app architecture
+- **Developers** showcasing Material Design 3 implementation
+
+---
+
+## 📱 Installation
+
+### 📦 APK Download
+
 <div align="center">
 
 **[🚀 DOWNLOAD APK - 149.9 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
 
-## 🎬 **WATCH DEMO VIDEO**
-
-<div align="center">
-  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
-    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
-  </a>
-</div>
-
-**[▶️ WATCH ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-*Complete app demonstration with live interface walkthrough!*
+**[🎬 WATCH DEMO VIDEO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 </div>
 
-### ⚡ Quick Install (3 Steps)
-1. **[Download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (149.9 MB)
-2. **Install**: Settings → Apps → Special access → Install unknown apps → Enable for your browser
-3. **Launch**: Open downloaded APK file → Install → Open app
+### 📋 System Requirements
 
-### 🎬 Demo Video Player
+- **Android Version:** 8.0 (API 26) or higher
+- **Storage:** 200 MB free space
+- **RAM:** 2 GB minimum
+- **Architecture:** ARMv7, ARM64, x86, x86_64
+
+### ⚡ Quick Install
+
+```bash
+# 1. Download APK from GitHub
+curl -L -o sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
+
+# 2. Enable Unknown Sources
+# Settings → Apps → Special access → Install unknown apps → Enable for your browser
+
+# 3. Install APK
+adb install sentinel-guard.apk
+```
+
+### 🛠️ Development Setup
+
+#### Prerequisites
+
+- **Flutter SDK:** 3.2.0 or higher
+- **Android Studio:** Latest version with Android SDK
+- **Git:** For version control
+
+#### Installation Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/SujithClasher/SentinelGuard.git
+cd SentinelGuard
+
+# 2. Install dependencies
+flutter pub get
+
+# 3. Run the app
+flutter run
+
+# 4. Build for release (optional)
+flutter build apk --release
+```
+
+---
+
+## 🎬 Demo
+
+### 📺 Live Demo Video
+
 <div align="center">
 
-**[🎬 ▶️ WATCH YOUTUBE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+**[🎬 ▶️ WATCH DEMO ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 <div align="center">
   <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
@@ -61,143 +149,16 @@
 
 </div>
 
-### 📺 YouTube Demo Player
-<div align="center">
+### 🎮 Demo Credentials
 
-## 🎬 **YOUTUBE DEMO VIDEO**
+| Credential | Value | Description |
+|------------|-------|-------------|
+| **Demo PIN** | `123456` | PIN for exiting kids mode |
+| **Demo Device** | "Alex's Phone" | Samsung Galaxy S24 Ultra |
+| **Demo Data** | 7 days | Realistic usage patterns |
+| **Features** | 45+ apps | Real Android app simulation |
 
-<div align="center">
-  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
-    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
-  </a>
-</div>
-
-**[🎬 ▶️ WATCH ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-*🎬 Complete app demonstration with live interface walkthrough!*
-
-**📋 How to Watch:**
-1. **Click the thumbnail above** or **[watch on YouTube](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-2. **YouTube video player opens** automatically
-3. **Click play** to watch the full demo
-4. **Works on all devices and platforms**
-
-**📱 APK Details:**
-- **Size:** 149.9 MB (149,868,726 bytes)
-- **Build:** Debug APK (fully functional)
-- **Compatibility:** Android 8.0+ (API 26+)
-- **Features:** Complete demo with all functionality
-
-**🎥 YouTube Video Details:**
-- **Platform:** YouTube Shorts
-- **Quality:** High-resolution demo
-- **Content:** Live interface demonstration
-- **Accessibility:** Works everywhere YouTube works
-
-</div>
-
-**⚠️ Important:** This is a **demo application** showcasing parental control UI with realistic mock data. It does not provide real device monitoring.
-
-**🔗 Direct Links:**
-- **Primary Download**: [sentinel-guard-debug.apk](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)
-- **Alternative**: [GitHub Release](https://github.com/SujithClasher/SentinelGuard/releases) (when available)
-
-**Full Installation Guide**: [Detailed Steps](#detailed-installation-steps)
-
-## 📋 Detailed Installation Steps<a id="detailed-installation-steps"></a>
-
-1. **Download the APK file** using either:
-   - **[🚀 DOWNLOAD APK NOW - 81.4 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
-   - Click the "Download APK" badge above (requires GitHub release)
-2. **Enable "Install from Unknown Sources"** in Android settings (Settings → Apps → Special access → Install unknown apps)
-3. **Open the downloaded APK file** and follow the installation prompts
-4. **Launch the app** and complete the setup process
-5. **Grant permissions** for full functionality (Usage Stats, Overlay, etc.)
-
-### System Requirements
-- **Android Version**: 8.0 (API 26) or higher
-- **Storage**: 50MB free space
-- **RAM**: 2GB minimum
-- **Permissions**: Usage Stats, Overlay, Device Admin (for full functionality)
-
-## ✨ Features
-
-### 🎯 Demo Features Showcase **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-- **Interactive Dashboard** - Beautiful Material Design 3 interface with "Alex's Phone" demo data
-- **Screen Time Visualization** - Realistic usage patterns and statistics display
-- **App Management Interface** - 45+ real Android apps with usage controls mockup
-- **Web Filtering Categories** - 10+ content categories with blocking simulation
-- **NSFW Scanner Demo** - Premium feature showcase with blur effects
-- **Activity Reports** - Weekly usage charts and browsing history simulation
-
-**[▶️ WATCH ALL FEATURES](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-### 👶 Kids Mode Launcher **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-- Colorful, child-friendly interface design
-- Timer display and app grid layout
-- PIN-protected exit system (Demo PIN: `123456`)
-- Visual feedback and animations
-
-**[▶️ WATCH KIDS MODE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-### 🌟 Premium Features Showcase **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-- **Blur Effects Demo** - Visual inappropriate content protection simulation
-- **Feature Cards** - Premium upgrade prompts and comparisons
-- **Analytics Mockup** - Usage statistics and reporting interface
-
-**[▶️ WATCH PREMIUM FEATURES](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-## 🎨 Design Highlights
-
-- **Material Design 3** with custom color schemes
-- **Dark/Light Mode** support
-- **Smooth Animations** using animate_do package
-- **Responsive Layouts** for phones and tablets
-- **Premium Gradients** throughout the UI
-- **Glassmorphism Effects** for modern look
-
-## 🏗️ Architecture
-
-### State Management
-- Provider pattern for app-wide state
-- Reactive UI updates
-- Centralized data management
-
-### Project Structure
-```
-lib/
-├── main.dart                 # App entry point with navigation
-├── theme/                    # Theming and styles
-│   ├── app_theme.dart
-│   ├── colors.dart
-│   └── text_styles.dart
-├── models/                   # Data models
-│   ├── child_profile.dart
-│   ├── app_usage.dart
-│   ├── website_category.dart
-│   ├── activity_report.dart
-│   └── screen_time_limit.dart
-├── providers/                # State management
-│   └── app_state.dart
-├── screens/                  # All UI screens
-│   ├── auth/                 # Splash, onboarding, setup
-│   ├── parent/               # Parent dashboard & controls
-│   └── child/                # Kids launcher
-├── widgets/                  # Reusable components
-│   ├── custom_app_bar.dart
-│   ├── child_profile_card.dart
-│   ├── usage_chart_card.dart
-│   ├── app_tile.dart
-│   ├── stat_card.dart
-│   ├── premium_feature_card.dart
-│   ├── blur_overlay_widget.dart
-│   ├── loading_shimmer.dart
-│   └── empty_state_widget.dart
-└── data/                     # Dummy data service
-    └── dummy_data.dart
-```
-
-## 📸 Screenshots
+### 📸 Screenshots
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/dashboard.png" alt="Dashboard" width="300" style="margin: 10px;">
@@ -211,310 +172,321 @@ lib/
   <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/premium_features.png" alt="Premium Features" width="300" style="margin: 10px;">
 </div>
 
-**📂 View all screenshots**: [screenshots/](https://github.com/SujithClasher/SentinelGuard/tree/master/screenshots) folder
+**[📂 View All Screenshots](https://github.com/SujithClasher/SentinelGuard/tree/master/screenshots)**
 
-## 🚀 Getting Started
+---
 
-### For Users (APK Installation)
+## 🚀 Usage
 
-**⚡ FAST DOWNLOAD** (81.4 MB):
+### 🎯 Quick Start
 
-**[🚀 DOWNLOAD APK NOW](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
-
-*💡 Direct download - no waiting, instant access*
-
-*Alternative*: [GitHub Release](https://github.com/SujithClasher/SentinelGuard/releases) (when available)
-2. **Install the APK**:
-   - Enable "Install from Unknown Sources" in Settings
-   - Open the downloaded `.apk` file
-   - Follow installation prompts
-3. **Launch and Setup**:
-   - Open Sentinel Guard from app drawer
-   - Complete the initial setup wizard
-   - Grant necessary permissions (Usage Stats, Overlay)
-4. **Configure Features**:
-   - Set up child profiles
-   - Configure app permissions
-   - Enable web filtering categories
-
-### For Developers (Source Code)
-
-#### Prerequisites
-- **Flutter SDK**: 3.2.0 or higher
-- **Android Studio**: Latest version with Android SDK
-- **Android Device/Emulator**: Android 8.0+ (API 26+)
-
-#### Development Setup
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/SujithClasher/SentinelGuard.git
-   cd SentinelGuard
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run on connected device:**
-   ```bash
-   flutter run
-   ```
-
-4. **For release build:**
-   ```bash
-   flutter build apk --release
-   ```
-
-#### Project Structure
-```
-lib/
-├── main.dart                 # App entry point
-├── screens/                  # UI screens organized by feature
-│   ├── auth/                # Onboarding and setup
-│   ├── parent/              # Parent dashboard and controls
-│   └── child/               # Kids launcher interface
-├── services/                # Business logic and API services
-├── models/                  # Data models and entities
-├── providers/               # State management
-├── widgets/                 # Reusable UI components
-└── theme/                   # Styling and theming
+```bash
+# 1. Install and launch the app
+# 2. Complete the onboarding process
+# 3. Explore the dashboard with demo data
+# 4. Try kids mode with PIN: 123456
+# 5. Test all features with realistic mock data
 ```
 
-## 🎮 Demo & Testing
+### 📱 App Navigation
 
-### 📹 YouTube Demo Player
-<div align="center">
+#### Parent Dashboard
+- **Overview Tab:** Screen time, app usage, activity feed
+- **Apps Tab:** Manage app permissions and time limits
+- **Screen Time:** Set daily limits and schedules
+- **Web Filtering:** Configure content categories
+- **Reports:** View usage analytics and history
 
-**[🎬 ▶️ WATCH YOUTUBE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+#### Kids Mode
+- **Launcher:** Child-friendly app grid interface
+- **Timer Display:** Shows remaining screen time
+- **PIN Exit:** Secure exit requiring parent PIN
+- **Approved Apps:** Only allowed applications visible
 
-<div align="center">
-  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
-    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
-  </a>
-</div>
+### 🧪 Test Scenarios
 
-*🎬 Complete app walkthrough showcasing all demo features!*
+1. **Dashboard Overview**
+   ```bash
+   # View: 5m screen time, 4 apps used, 8 websites visited
+   ```
 
-**[🎬 ▶️ PLAY ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+2. **Kids Mode Testing**
+   ```bash
+   # PIN: 123456 (for exiting kids mode)
+   # See colorful launcher interface
+   ```
 
-*Watch live app interface demonstration on YouTube*
+3. **App Management**
+   ```bash
+   # 45+ real apps available
+   # Set time limits and permissions
+   ```
 
-</div>
+4. **Premium Features**
+   ```bash
+   # Explore subscription options
+   # Test premium feature flows
+   ```
 
-### Demo Information **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-- **Demo PIN**: `123456` (for exiting kids mode)
-- **Demo Device**: "Alex's Phone" (Samsung Galaxy S24 Ultra)
-- **Demo Data**: 7 days of realistic usage patterns and activity
-- **Features**: 45+ real Android apps, browsing history, screen time data
+---
 
-**[▶️ WATCH DEMO EXPERIENCE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+## ⚙️ Configuration
 
-### What You'll Experience
-1. **Splash Screen** → Animated logo with Material Design 3
-2. **Onboarding Flow** → 3-page introduction to demo features
-3. **Setup Process** → Parent account creation with PIN
-4. **Dashboard View** → Screen time: 5m, 4 apps used, 8 websites visited
-5. **Kids Launcher** → Colorful interface with timer display
-6. **App Management** → 45+ real apps with usage controls interface
-7. **Web Filtering** → 10+ content categories with blocking simulation
-8. **Premium Showcase** → Feature comparisons and upgrade prompts
+### 🔧 Environment Setup
 
-**[🎬 WATCH FULL EXPERIENCE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+This demo application uses **realistic mock data** and requires no external configuration. All data is generated locally for demonstration purposes.
 
-### Test Scenarios
-1. **Parent Dashboard**: View screen time stats, app usage, and activity feed
-2. **Kids Mode**: Launch from dashboard, see timer countdown, exit with PIN `123456`
-3. **App Management**: Search apps, set time limits, handle permission requests
-4. **Web Filtering**: Toggle content categories, view browsing history
-5. **Premium Features**: Explore upgrade options and premium functionality
+### 📋 Demo Data Configuration
 
-**[▶️ WATCH TEST SCENARIOS](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+The app includes pre-configured demo data:
+
+```dart
+// Device Information
+final deviceInfo = DeviceInfo(
+  name: "Alex's Phone",
+  model: 'Samsung Galaxy S24 Ultra',
+  androidVersion: 'Android 15',
+  lastSync: DateTime.now().subtract(const Duration(minutes: 2)),
+);
+
+// Demo Usage Data
+final todaySummary = {
+  'screenTime': const Duration(minutes: 5),
+  'appsUsed': 4,
+  'websitesVisited': 8,
+  'blockedAttempts': 2,
+  'pendingRequests': 1,
+};
+```
+
+### 🎨 Theme Configuration
+
+The app supports both light and dark themes:
+
+```dart
+// Light Theme (Default)
+ThemeMode.light
+
+// Dark Theme
+ThemeMode.dark
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎯 Core Technologies
+
+| Technology | Version | Purpose |
+|------------|---------|---------|
+| **Flutter** | 3.2.0+ | Cross-platform mobile framework |
+| **Dart** | 2.19+ | Programming language |
+| **Material Design 3** | Latest | UI component system |
+| **Provider** | 6.1.1 | State management |
+
+### 📦 Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.1
+
+  # Navigation
+  go_router: ^13.0.0
+
+  # UI Components
+  fl_chart: ^0.66.0
+  shimmer: ^3.0.0
+  animate_do: ^3.1.2
+  google_fonts: ^6.1.0
+
+  # Icons & Assets
+  font_awesome_flutter: ^10.6.0
+
+  # App Functionality
+  android_intent_plus: ^4.0.3
+  url_launcher: ^6.2.2
+  webview_flutter: ^4.4.2
+  external_app_launcher: ^4.0.3
+  usage_stats: ^1.3.0
+  local_auth: ^2.1.8
+
+  # Database & Storage
+  sqflite: ^2.3.0
+  path_provider: ^2.1.1
+  shared_preferences: ^2.2.2
+
+  # Utilities
+  intl: ^0.19.0
+```
+
+### 🏗️ Architecture
+
+- **MVVM Pattern** - Model-View-ViewModel architecture
+- **Provider Pattern** - Reactive state management
+- **Repository Pattern** - Data access abstraction
+- **Service Layer** - Business logic separation
+- **Widget Composition** - Reusable UI components
+
+---
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions from the community! Here's how you can help improve Sentinel Guard:
 
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+### 🚀 Getting Started
 
-### Development Guidelines
-- Follow Flutter best practices and coding standards
-- Write tests for new features
-- Update documentation as needed
-- Ensure compatibility with minimum Android API 26
+1. **Fork the repository**
+   ```bash
+   git clone https://github.com/your-username/SentinelGuard.git
+   cd SentinelGuard
+   ```
 
-## 📞 Support & Contact
+2. **Create a feature branch**
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
 
-### Issues & Bug Reports
-- [Report Issues](https://github.com/SujithClasher/SentinelGuard/issues)
-- [Feature Requests](https://github.com/SujithClasher/SentinelGuard/issues)
+3. **Make your changes**
+   ```bash
+   # Add your improvements
+   flutter pub get
+   flutter run
+   ```
 
-### Technical Support
-For technical questions or support:
-- Check the [Wiki](https://github.com/SujithClasher/SentinelGuard/wiki) for detailed guides
-- Review closed issues for common solutions
-- Create a new issue with detailed information
+4. **Test your changes**
+   ```bash
+   flutter test
+   ```
 
-## 📋 Changelog
+5. **Commit and push**
+   ```bash
+   git add .
+   git commit -m "Add amazing feature"
+   git push origin feature/amazing-feature
+   ```
 
-See [CHANGELOG.md](CHANGELOG.md) for a detailed list of changes and version history.
+6. **Open a Pull Request**
 
-## 🎯 Key Screens
+### 📝 Contribution Guidelines
 
-### Authentication Flow
-1. **Splash Screen** - Animated logo with gradient background
-2. **Onboarding** - 3-page swipeable introduction
-3. **Setup** - Create parent account with PIN
+- **Code Style:** Follow Dart/Flutter best practices
+- **Testing:** Include tests for new features
+- **Documentation:** Update README for significant changes
+- **Issues:** Use GitHub Issues for bug reports and features
+- **PRs:** Keep PRs focused and well-documented
 
-### Parent Mode
-1. **Dashboard** - Overview with stats, children cards, and activity timeline
-2. **Child Profiles** - Manage all children with detailed profiles
-3. **App Management** - Control app access with pending requests
-4. **Screen Time** - Daily limits, bedtimes, and schedules
-5. **Web Filtering** - Category-based content blocking
-6. **NSFW Scanner** - Detect and review suspicious content
-7. **Activity Reports** - Analytics with charts and export
-8. **Premium Features** - Upgrade prompts with feature comparison
-9. **Settings** - Notifications, security, theme, and account
+### 🧪 Running Tests
 
-### Kids Mode
-- **Launcher** - Grid of approved apps with remaining time display
-- **Request System** - Ask parent for app access or more time
-- **PIN Protection** - Secure exit requiring parent PIN
+```bash
+# Run all tests
+flutter test
 
-## 📊 Data Models
+# Run specific test file
+flutter test test/widget_test.dart
 
-### Child Profile
-- Name, age, avatar, device info
-- Daily limits and bedtime settings
-- Real-time usage tracking
-- Device status (active/paused)
+# Run with coverage
+flutter test --coverage
+```
 
-### App Usage
-- 7-day usage history
-- Time limits per app
-- Block/allow status
-- Category classification
+### 🐛 Reporting Issues
 
-### Activity Reports
-- Browsing history with risk levels
-- YouTube watch history
-- Blocked attempts counter
-- NSFW detections
+- **Bug Reports:** Use [GitHub Issues](https://github.com/SujithClasher/SentinelGuard/issues)
+- **Feature Requests:** Create an issue with `[Feature]` prefix
+- **Questions:** Use [GitHub Discussions](https://github.com/SujithClasher/SentinelGuard/discussions)
 
-## 🎨 Theme & Colors
+---
 
-### Color Palette
-- **Primary**: Deep Purple (#6750A4) - Trust & Security
-- **Secondary**: Teal (#26A69A) - Growth & Safety
-- **Tertiary**: Amber (#FFA726) - Kids Mode
-- **Semantic**: Red/Green/Orange/Blue for status
+## 🗺️ Roadmap
 
-### Typography
-- Headlines: Bold system font (32sp, 24sp, 20sp)
-- Body: Regular system font (16sp, 14sp, 12sp)
-- Kids Mode: Larger, bold text for readability
+### 🎯 Upcoming Features
 
-## 🔧 Packages Used
+- [ ] **Real Device Integration** - Actual usage stats tracking
+- [ ] **Backend API** - Cloud synchronization and data storage
+- [ ] **iOS Support** - Cross-platform compatibility
+- [ ] **Advanced Analytics** - ML-powered insights and predictions
+- [ ] **Multi-language Support** - Internationalization
+- [ ] **Cloud Backup** - Data synchronization across devices
+- [ ] **Push Notifications** - Real-time alerts and updates
+- [ ] **Family Sharing** - Multi-device family management
 
-- **provider** ^6.1.1 - State management
-- **fl_chart** ^0.66.0 - Beautiful charts
-- **shimmer** ^3.0.0 - Loading skeletons
-- **animate_do** ^3.1.2 - Smooth animations
-- **font_awesome_flutter** ^10.6.0 - Icon library
-- **intl** ^0.19.0 - Date formatting
+### 🔮 Future Enhancements
 
-## 🎯 Production Ready Features
+- **Machine Learning** - AI-powered content classification
+- **Geofencing** - Location-based restrictions
+- **Emergency Features** - SOS and emergency contacts
+- **Parental Reports** - Comprehensive activity summaries
+- **API Integration** - Third-party service connections
 
-✅ **Material Design 3** compliance  
-✅ **Null Safety** enabled  
-✅ **Responsive** layouts  
-✅ **Dark Mode** support  
-✅ **Error Handling** throughout  
-✅ **Loading States** for all async operations  
-✅ **Empty States** with helpful messages  
-✅ **Smooth Animations** and transitions  
-✅ **Accessibility** labels and touch targets  
-✅ **Edge-to-Edge** Android 15 support  
+*Want to suggest a feature? [Open an issue](https://github.com/SujithClasher/SentinelGuard/issues)!*
 
-## 🔮 Future Enhancements
-
-- Backend integration with Firebase/REST API
-- Real device monitoring with WorkManager
-- Actual ML model for NSFW detection
-- Geofencing and location tracking
-- Real-time notifications with FCM
-- Cross-platform iOS support
-- Multi-language support
-- Cloud backup and sync
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) 2025 SujithClasher
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
 
 ## 🙏 Acknowledgments
 
-- **Flutter Team** for the amazing framework
-- **Material Design Team** for the design system
-- **Dart Team** for the programming language
-- **Community Contributors** for their valuable feedback and suggestions
+### 🎨 Design & UI
+- **Material Design Team** - Material Design 3 components and guidelines
+- **Google Fonts** - Typography resources
+- **Flutter Team** - Beautiful widget library
 
-## 📊 Project Status
+### 🛠️ Development Tools
+- **Flutter** - Cross-platform mobile framework
+- **Dart** - Modern programming language
+- **Android Studio** - IDE and development tools
 
-[![GitHub Stars](https://img.shields.io/github/stars/SujithClasher/SentinelGuard?style=social)](https://github.com/SujithClasher/SentinelGuard)
-[![GitHub Forks](https://img.shields.io/github/forks/SujithClasher/SentinelGuard?style=social)](https://github.com/SujithClasher/SentinelGuard)
-[![GitHub Issues](https://img.shields.io/github/issues/SujithClasher/SentinelGuard)](https://github.com/SujithClasher/SentinelGuard/issues)
+### 📚 Learning Resources
+- **Flutter Documentation** - Comprehensive guides and API references
+- **Material Design Guidelines** - UI/UX best practices
+- **Provider Package** - State management patterns
 
-**Version**: 1.0.0
-**Last Updated**: October 2025
-**Maintenance**: Active
+### 👥 Contributors
+- **SujithClasher** - Project creator and maintainer
+- **Open Source Community** - Contributors and supporters
+
+### 🎯 Inspiration
+- Modern parental control applications
+- Material Design case studies
+- Flutter showcase projects
 
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ using Flutter</strong></p>
-  <p>
-    <a href="#sentinel-guard-">Back to top ↑</a>
-  </p>
+
+**Built with ❤️ using Flutter**
+
+**[⭐ Star this repo](https://github.com/SujithClasher/SentinelGuard)** • **[🐛 Report issues](https://github.com/SujithClasher/SentinelGuard/issues)** • **[💬 Join discussions](https://github.com/SujithClasher/SentinelGuard/discussions)**
+
 </div>
-
-## 👨‍💻 Developer Notes
-
-This **demo application** showcases:
-- Modern Flutter architecture patterns
-- Provider state management
-- Material Design 3 implementation
-- Complex UI with custom widgets
-- Professional animations and transitions
-- Realistic mock data systems
-- Production-quality code structure
-
-### 🎯 Demo Architecture **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-- **Frontend-only** demonstration (no backend)
-- **Realistic mock data** for all features
-- **45+ real Android apps** with package names
-- **7 days of usage history** simulation
-- **Material Design 3** compliance
-- **Responsive layouts** for all screen sizes
-
-**[▶️ WATCH ARCHITECTURE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-### 🚀 Built for Demonstration
-- Perfect for **portfolio showcase**
-- **UI/UX design** presentation
-- **Flutter development** skills demo
-- **Interactive prototyping**
-- **Client presentations**
-
-**[🎬 WATCH DEMONSTRATION SHOWCASE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
-
-Built with ❤️ using Flutter
-
----
-
-**⚠️ Demo Purpose**: This application demonstrates parental control UI/UX design and does not provide real device monitoring or parental controls. All data is simulated for demonstration purposes.
