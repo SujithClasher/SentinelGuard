@@ -22,14 +22,22 @@
 
 ## 📱 Download & Installation
 
-### 📱 APK Download & Demo Videos
+### 📱 APK Download & Demo Video
 <div align="center">
 
 **[🚀 DOWNLOAD APK - 149.9 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
 
-**[🎬 WATCH DEMO VIDEOS]**
+## 🎬 **WATCH DEMO VIDEO**
 
-**[📹 Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
+<div align="center">
+  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
+    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
+  </a>
+</div>
+
+**[▶️ WATCH ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+*Complete app demonstration with live interface walkthrough!*
 
 </div>
 
@@ -38,30 +46,41 @@
 2. **Install**: Settings → Apps → Special access → Install unknown apps → Enable for your browser
 3. **Launch**: Open downloaded APK file → Install → Open app
 
-### 🎬 Demo Videos Available
-- **[📹 Watch Repository Demo Video](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** - Complete app walkthrough
-- **[🎬 External Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Alternative demo
-
-### 📺 Video Player Demo View
+### 🎬 Demo Video Player
 <div align="center">
 
-## 🎬 **WATCH DEMO VIDEO ON GITHUB**
-
-**[🎬 ▶️ PLAY DEMO VIDEO NOW](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[🎬 ▶️ WATCH YOUTUBE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 <div align="center">
-  <a href="https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/🎬_WATCH_VIDEO_ON_GITHUB-blue?style=for-the-badge&logo=github" alt="Watch Video on GitHub" width="300">
+  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
+    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
   </a>
 </div>
 
-*🎬 Watch the complete app demonstration with live interface walkthrough directly on GitHub!*
+*🎬 Complete app demonstration with live interface walkthrough!*
+
+</div>
+
+### 📺 YouTube Demo Player
+<div align="center">
+
+## 🎬 **YOUTUBE DEMO VIDEO**
+
+<div align="center">
+  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
+    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
+  </a>
+</div>
+
+**[🎬 ▶️ WATCH ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+*🎬 Complete app demonstration with live interface walkthrough!*
 
 **📋 How to Watch:**
-1. **Click the blue button above** or **[visit video page](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
-2. **GitHub will open the video player** automatically
+1. **Click the thumbnail above** or **[watch on YouTube](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+2. **YouTube video player opens** automatically
 3. **Click play** to watch the full demo
-4. **Works on mobile and desktop**
+4. **Works on all devices and platforms**
 
 **📱 APK Details:**
 - **Size:** 149.9 MB (149,868,726 bytes)
@@ -69,14 +88,11 @@
 - **Compatibility:** Android 8.0+ (API 26+)
 - **Features:** Complete demo with all functionality
 
-**🎥 Video Details:**
-- **Duration:** Complete app walkthrough
+**🎥 YouTube Video Details:**
+- **Platform:** YouTube Shorts
 - **Quality:** High-resolution demo
 - **Content:** Live interface demonstration
-- **Size:** ~39MB (loads progressively)
-
-**Alternative Demo Videos:**
-- **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Google Drive version
+- **Accessibility:** Works everywhere YouTube works
 
 </div>
 
@@ -106,24 +122,30 @@
 
 ## ✨ Features
 
-### 🎯 Demo Features Showcase
-- **Interactive Dashboard** - Beautiful Material Design 3 interface with "Alex's Phone" demo data **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
-- **Screen Time Visualization** - Realistic usage patterns and statistics display **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
-- **App Management Interface** - 45+ real Android apps with usage controls mockup **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
-- **Web Filtering Categories** - 10+ content categories with blocking simulation **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
-- **NSFW Scanner Demo** - Premium feature showcase with blur effects **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
-- **Activity Reports** - Weekly usage charts and browsing history simulation **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+### 🎯 Demo Features Showcase **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+- **Interactive Dashboard** - Beautiful Material Design 3 interface with "Alex's Phone" demo data
+- **Screen Time Visualization** - Realistic usage patterns and statistics display
+- **App Management Interface** - 45+ real Android apps with usage controls mockup
+- **Web Filtering Categories** - 10+ content categories with blocking simulation
+- **NSFW Scanner Demo** - Premium feature showcase with blur effects
+- **Activity Reports** - Weekly usage charts and browsing history simulation
 
-### 👶 Kids Mode Launcher **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[▶️ WATCH ALL FEATURES](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+### 👶 Kids Mode Launcher **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 - Colorful, child-friendly interface design
 - Timer display and app grid layout
 - PIN-protected exit system (Demo PIN: `123456`)
 - Visual feedback and animations
 
-### 🌟 Premium Features Showcase **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[▶️ WATCH KIDS MODE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+### 🌟 Premium Features Showcase **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 - **Blur Effects Demo** - Visual inappropriate content protection simulation
 - **Feature Cards** - Premium upgrade prompts and comparisons
 - **Analytics Mockup** - Usage statistics and reporting interface
+
+**[▶️ WATCH PREMIUM FEATURES](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 ## 🎨 Design Highlights
 
@@ -261,34 +283,34 @@ lib/
 
 ## 🎮 Demo & Testing
 
-### 📹 Demo Videos & GitHub Player
+### 📹 YouTube Demo Player
 <div align="center">
 
-**[🎬 WATCH DEMO VIDEOS ON GITHUB]**
-
-**[📹 Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
+**[🎬 ▶️ WATCH YOUTUBE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 <div align="center">
-  <a href="https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/🎬_WATCH_DEMO_VIDEO_ON_GITHUB-blue?style=for-the-badge&logo=github" alt="Watch Demo Video on GitHub">
+  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
+    <img src="https://img.youtube.com/vi/p64nOcLEdRs/maxresdefault.jpg" alt="YouTube Demo Video" width="640" height="360" style="border: 2px solid #FF0000; border-radius: 8px;">
   </a>
 </div>
 
 *🎬 Complete app walkthrough showcasing all demo features!*
 
-**[🎬 ▶️ PLAY VIDEO NOW](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[🎬 ▶️ PLAY ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
-*Watch live app interface demonstration directly on GitHub*
+*Watch live app interface demonstration on YouTube*
 
 </div>
 
-### Demo Information
+### Demo Information **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 - **Demo PIN**: `123456` (for exiting kids mode)
 - **Demo Device**: "Alex's Phone" (Samsung Galaxy S24 Ultra)
 - **Demo Data**: 7 days of realistic usage patterns and activity
 - **Features**: 45+ real Android apps, browsing history, screen time data
 
-### What You'll Experience **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[▶️ WATCH DEMO EXPERIENCE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+### What You'll Experience
 1. **Splash Screen** → Animated logo with Material Design 3
 2. **Onboarding Flow** → 3-page introduction to demo features
 3. **Setup Process** → Parent account creation with PIN
@@ -298,12 +320,16 @@ lib/
 7. **Web Filtering** → 10+ content categories with blocking simulation
 8. **Premium Showcase** → Feature comparisons and upgrade prompts
 
-### Test Scenarios **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[🎬 WATCH FULL EXPERIENCE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+### Test Scenarios
 1. **Parent Dashboard**: View screen time stats, app usage, and activity feed
 2. **Kids Mode**: Launch from dashboard, see timer countdown, exit with PIN `123456`
 3. **App Management**: Search apps, set time limits, handle permission requests
 4. **Web Filtering**: Toggle content categories, view browsing history
 5. **Premium Features**: Explore upgrade options and premium functionality
+
+**[▶️ WATCH TEST SCENARIOS](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 ## 🤝 Contributing
 
@@ -468,7 +494,7 @@ This **demo application** showcases:
 - Realistic mock data systems
 - Production-quality code structure
 
-### 🎯 Demo Architecture **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+### 🎯 Demo Architecture **[🎬 YouTube Demo](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 - **Frontend-only** demonstration (no backend)
 - **Realistic mock data** for all features
 - **45+ real Android apps** with package names
@@ -476,12 +502,16 @@ This **demo application** showcases:
 - **Material Design 3** compliance
 - **Responsive layouts** for all screen sizes
 
-### 🚀 Built for Demonstration **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[▶️ WATCH ARCHITECTURE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+
+### 🚀 Built for Demonstration
 - Perfect for **portfolio showcase**
 - **UI/UX design** presentation
 - **Flutter development** skills demo
 - **Interactive prototyping**
 - **Client presentations**
+
+**[🎬 WATCH DEMONSTRATION SHOWCASE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
 Built with ❤️ using Flutter
 
