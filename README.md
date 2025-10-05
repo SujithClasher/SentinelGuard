@@ -5,10 +5,11 @@
   <img src="https://img.shields.io/badge/API-21+-blue" alt="API Level">
   <img src="https://img.shields.io/badge/Flutter-3.2.0+-blue" alt="Flutter Version">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+  <img src="https://img.shields.io/badge/Demo-App-orange" alt="Demo App">
 </p>
 
 <p align="center">
-  <strong>A premium, production-ready Flutter parental control app with Material Design 3, built for Android 15+.</strong>
+  <strong>🎬 Professional Demo | Parental Control App with Material Design 3</strong>
 </p>
 
 <p align="center">
@@ -21,22 +22,25 @@
 
 ## 📱 Download & Installation
 
-### APK Download
+### 📱 APK Download & Demo Video
 <div align="center">
 
-**[🚀 DOWNLOAD APK NOW - 81.4 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+**[🚀 DOWNLOAD APK - 168.6 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/SujithClasher/SentinelGuard/releases/download/v1.0.0/sentinel-guard-v1.0.0.apk)
+**[🎬 WATCH DEMO VIDEO](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 
 </div>
 
 ### ⚡ Quick Install (3 Steps)
-1. **[Download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (81.4 MB)
+1. **[Download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (168.6 MB)
 2. **Install**: Settings → Apps → Special access → Install unknown apps → Enable for your browser
 3. **Launch**: Open downloaded APK file → Install → Open app
 
-### 🎬 Before Installing - Watch Demo
-**[🎬 See App Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Complete walkthrough of all features!
+### 🎬 Demo Videos Available
+- **[📹 Watch Repository Demo Video](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** - Complete app walkthrough
+- **[🎬 External Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Alternative demo
+
+**⚠️ Important:** This is a **demo application** showcasing parental control UI with realistic mock data. It does not provide real device monitoring.
 
 **🔗 Direct Links:**
 - **Primary Download**: [sentinel-guard-debug.apk](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)
@@ -62,31 +66,24 @@
 
 ## ✨ Features
 
-### 🎯 Core Monitoring Features
-- **Real-time Dashboard** - Track all children's activities at a glance
-- **Screen Time Management** - Set daily limits, bedtimes, and tech-free schedules
-- **App Management** - Block/allow apps with custom time limits
-- **Web Filtering** - 10+ content categories with 1000+ blocked sites
-- **NSFW Content Scanner** - AI-powered inappropriate content detection
-- **Activity Reports** - Detailed analytics and browsing history
+### 🎯 Demo Features Showcase
+- **Interactive Dashboard** - Beautiful Material Design 3 interface with "Alex's Phone" demo data
+- **Screen Time Visualization** - Realistic usage patterns and statistics display
+- **App Management Interface** - 45+ real Android apps with usage controls mockup
+- **Web Filtering Categories** - 10+ content categories with blocking simulation
+- **NSFW Scanner Demo** - Premium feature showcase with blur effects
+- **Activity Reports** - Weekly usage charts and browsing history simulation
 
-### 👨‍👩‍👧‍👦 Multi-Child Support
-- Manage up to 5 children from one account
-- Individual profiles with custom avatars
-- Per-child settings and limits
-- Real-time device status monitoring
+### 👶 Kids Mode Launcher
+- Colorful, child-friendly interface design
+- Timer display and app grid layout
+- PIN-protected exit system (Demo PIN: `123456`)
+- Visual feedback and animations
 
-### 👶 Kids Mode
-- Colorful, child-friendly launcher interface
-- Shows only approved apps
-- Countdown timer for remaining screen time
-- Request system to ask parents for more time
-- PIN-protected exit
-
-### 🌟 Premium Features
-- **Real-Time Blur** - Automatically blur inappropriate content
-- **Study AI** - AI homework helper and learning assistant
-- **Advanced Analytics** - Deep insights and predictive alerts
+### 🌟 Premium Features Showcase
+- **Blur Effects Demo** - Visual inappropriate content protection simulation
+- **Feature Cards** - Premium upgrade prompts and comparisons
+- **Analytics Mockup** - Usage statistics and reporting interface
 
 ## 🎨 Design Highlights
 
@@ -224,29 +221,30 @@ lib/
 
 ## 🎮 Demo & Testing
 
-### 📹 App Demo Video
+### 📹 Demo Videos
 <div align="center">
 
-**[🎬 Watch Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
+**[🎬 Watch Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 Watch External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
 
-*See the app in action with a complete walkthrough of all features!*
+*Complete app walkthrough showcasing all demo features!*
 
 </div>
 
-### Demo Credentials
-- **Parent PIN**: `123456` (for exiting kids mode)
-- **Demo Data**: Pre-loaded with realistic usage data for testing
-- **Test Device**: "Alex's Phone" with 45+ installed apps
+### Demo Information
+- **Demo PIN**: `123456` (for exiting kids mode)
+- **Demo Device**: "Alex's Phone" (Samsung Galaxy S24 Ultra)
+- **Demo Data**: 7 days of realistic usage patterns and activity
+- **Features**: 45+ real Android apps, browsing history, screen time data
 
-### What You'll See After Installation
-1. **Splash Screen** → Animated logo with gradient background
-2. **Onboarding** → 3-page introduction to app features
-3. **Setup Screen** → Create parent account with PIN
-4. **Parent Dashboard** → Screen time: 4h 35m, 12 blocked apps, 3 requests pending
-5. **Kids Mode** → Colorful launcher with approved apps and timer
-6. **App Control** → 45+ real apps (YouTube, Instagram, Discord, etc.)
-7. **Web Filtering** → Content categories with browsing history
-8. **Premium Features** → Upgrade prompts and feature comparisons
+### What You'll Experience
+1. **Splash Screen** → Animated logo with Material Design 3
+2. **Onboarding Flow** → 3-page introduction to demo features
+3. **Setup Process** → Parent account creation with PIN
+4. **Dashboard View** → Screen time: 5m, 4 apps used, 8 websites visited
+5. **Kids Launcher** → Colorful interface with timer display
+6. **App Management** → 45+ real apps with usage controls interface
+7. **Web Filtering** → 10+ content categories with blocking simulation
+8. **Premium Showcase** → Feature comparisons and upgrade prompts
 
 ### Test Scenarios
 1. **Parent Dashboard**: View screen time stats, app usage, and activity feed
@@ -409,22 +407,32 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer Notes
 
-This app demonstrates:
+This **demo application** showcases:
 - Modern Flutter architecture patterns
 - Provider state management
 - Material Design 3 implementation
 - Complex UI with custom widgets
-- Production-ready code organization
-- Professional-grade animations
-- Comprehensive dummy data
+- Professional animations and transitions
+- Realistic mock data systems
+- Production-quality code structure
+
+### 🎯 Demo Architecture
+- **Frontend-only** demonstration (no backend)
+- **Realistic mock data** for all features
+- **45+ real Android apps** with package names
+- **7 days of usage history** simulation
+- **Material Design 3** compliance
+- **Responsive layouts** for all screen sizes
+
+### 🚀 Built for Demonstration
+- Perfect for **portfolio showcase**
+- **UI/UX design** presentation
+- **Flutter development** skills demo
+- **Interactive prototyping**
+- **Client presentations**
 
 Built with ❤️ using Flutter
 
 ---
 
-**Note**: This is a frontend-only demo with dummy data. Real parental control features require:
-- Android Device Admin permissions
-- Usage Stats API access
-- Accessibility Service for monitoring
-- Background services
-- Server-side filtering database
+**⚠️ Demo Purpose**: This application demonstrates parental control UI/UX design and does not provide real device monitoring or parental controls. All data is simulated for demonstration purposes.
