@@ -78,9 +78,32 @@ This demo serves as an excellent **portfolio piece** and **learning resource** f
 
 <div align="center">
 
-**[🚀 DOWNLOAD APK - 149.9 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+## 🚀 **DOWNLOAD SENTINEL GUARD APK**
 
-**[🎬 WATCH DEMO VIDEO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+**[📱 DOWNLOAD APK (149.9 MB)](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+
+<div align="center">
+  <a href="https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk" target="_blank">
+    <img src="https://img.shields.io/badge/📱_DOWNLOAD_APK_(149.9_MB)-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</div>
+
+**Alternative Download Methods:**
+- **[🔗 Direct Download](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** - Click to download immediately
+- **[💻 Command Line Download](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** - Use curl/wget for automation
+- **[🎬 Watch Demo First](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** - See the app in action
+
+**📥 Download Commands:**
+```bash
+# Using curl
+curl -L -o sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
+
+# Using wget
+wget -O sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
+
+# Using PowerShell
+Invoke-WebRequest -Uri "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk" -OutFile "sentinel-guard.apk"
+```
 
 </div>
 
@@ -93,15 +116,24 @@ This demo serves as an excellent **portfolio piece** and **learning resource** f
 
 ### ⚡ Quick Install
 
+#### Option 1: Direct Download (Recommended)
+1. **[Click here to download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (149.9 MB)
+2. **Enable Unknown Sources:** Settings → Apps → Special access → Install unknown apps → Enable for your browser
+3. **Install APK:** Open downloaded file and follow prompts
+4. **Launch:** Open Sentinel Guard from app drawer
+
+#### Option 2: Command Line
 ```bash
-# 1. Download APK from GitHub
+# 1. Download APK
 curl -L -o sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
 
-# 2. Enable Unknown Sources
-# Settings → Apps → Special access → Install unknown apps → Enable for your browser
-
-# 3. Install APK
+# 2. Install via ADB (if Android SDK installed)
 adb install sentinel-guard.apk
+
+# 3. Or manually install:
+# - Transfer APK to device
+# - Enable Unknown Sources in Settings
+# - Open APK file on device
 ```
 
 ### 🛠️ Development Setup
