@@ -25,7 +25,7 @@
 ### 📱 APK Download & Demo Videos
 <div align="center">
 
-**[🚀 DOWNLOAD APK - 168.6 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+**[🚀 DOWNLOAD APK - 149.9 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
 
 **[🎬 WATCH DEMO VIDEOS]**
 
@@ -34,7 +34,7 @@
 </div>
 
 ### ⚡ Quick Install (3 Steps)
-1. **[Download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (168.6 MB)
+1. **[Download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (149.9 MB)
 2. **Install**: Settings → Apps → Special access → Install unknown apps → Enable for your browser
 3. **Launch**: Open downloaded APK file → Install → Open app
 
@@ -62,6 +62,12 @@
 2. **GitHub will open the video player** automatically
 3. **Click play** to watch the full demo
 4. **Works on mobile and desktop**
+
+**📱 APK Details:**
+- **Size:** 149.9 MB (149,868,726 bytes)
+- **Build:** Debug APK (fully functional)
+- **Compatibility:** Android 8.0+ (API 26+)
+- **Features:** Complete demo with all functionality
 
 **🎥 Video Details:**
 - **Duration:** Complete app walkthrough
