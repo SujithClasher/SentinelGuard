@@ -64,48 +64,56 @@ Sentinel Guard provides a complete demonstration of parental control interfaces 
 ### 💡 Why It's Useful
 
 This demo serves as an excellent **portfolio piece** and **learning resource** for:
-- **Flutter developers** learning advanced state management
-- **UI/UX designers** exploring parental control interfaces
-- **Product managers** understanding feature requirements
-- **Students** studying mobile app architecture
-- **Developers** showcasing Material Design 3 implementation
+- **Flutter developers** learning advanced state management and Material Design 3
+- **UI/UX designers** exploring parental control interfaces and user experience patterns
+- **Product managers** understanding feature requirements and implementation complexity
+- **Students** studying mobile app architecture, state management, and modern Flutter patterns
+- **Developers** showcasing comprehensive app development skills and best practices
 
 ---
 
 ## 📱 Installation
 
-### 📦 APK Download
+### 📦 APK Build & Download
 
 <div align="center">
 
-## 🚀 **DOWNLOAD SENTINEL GUARD APK**
+## 🚀 **BUILD YOUR OWN APK**
 
-**[📱 DOWNLOAD APK (149.9 MB)](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+**Note:** APK files are not included in the repository. You'll need to build the APK yourself using Flutter.
 
-<div align="center">
-  <a href="https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk" target="_blank">
-    <img src="https://img.shields.io/badge/📱_DOWNLOAD_APK_(149.9_MB)-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
-  </a>
+**[🎬 WATCH DEMO FIRST](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** | **[📖 BUILD INSTRUCTIONS](#-development-setup)**
+
 </div>
 
-**Alternative Download Methods:**
-- **[🔗 Direct Download](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** - Click to download immediately
-- **[💻 Command Line Download](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** - Use curl/wget for automation
-- **[🎬 Watch Demo First](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** - See the app in action
+#### ⚠️ **Why No Direct APK Download?**
 
-**📥 Download Commands:**
+APK files are **build artifacts** that:
+- Are **not committed** to git repositories (see `.gitignore`)
+- **Change frequently** during development
+- Can be **large files** (150+ MB)
+- Should be **built fresh** for security
+
+#### ✅ **How to Get the APK:**
+
+1. **Clone & Setup** the repository (see [Development Setup](#-development-setup))
+2. **Build the APK** using Flutter commands
+3. **Install on device** for testing
+
+**Quick Build Commands:**
 ```bash
-# Using curl
-curl -L -o sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
+# 1. Install dependencies
+flutter pub get
 
-# Using wget
-wget -O sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
+# 2. Build debug APK (recommended for testing)
+flutter build apk --debug
 
-# Using PowerShell
-Invoke-WebRequest -Uri "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk" -OutFile "sentinel-guard.apk"
+# 3. Find the APK file
+# Location: build/app/outputs/flutter-apk/app-debug.apk
+# Size: ~150 MB
 ```
 
-</div>
+**[🎯 Jump to Development Setup](#-development-setup)**
 
 ### 📋 System Requirements
 
@@ -114,27 +122,37 @@ Invoke-WebRequest -Uri "https://github.com/SujithClasher/SentinelGuard/raw/maste
 - **RAM:** 2 GB minimum
 - **Architecture:** ARMv7, ARM64, x86, x86_64
 
-### ⚡ Quick Install
+### ⚡ Quick Start Guide
 
-#### Option 1: Direct Download (Recommended)
-1. **[Click here to download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (149.9 MB)
-2. **Enable Unknown Sources:** Settings → Apps → Special access → Install unknown apps → Enable for your browser
-3. **Install APK:** Open downloaded file and follow prompts
-4. **Launch:** Open Sentinel Guard from app drawer
+#### 🚀 For Users (Test the Demo)
+1. **Watch the demo video** to see the app in action
+2. **Clone the repository** for development/testing
+3. **Build and run** on your device or emulator
 
-#### Option 2: Command Line
+#### 🛠️ For Developers (Build & Test)
 ```bash
-# 1. Download APK
-curl -L -o sentinel-guard.apk "https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk"
+# 1. Clone the repository
+git clone https://github.com/SujithClasher/SentinelGuard.git
+cd SentinelGuard
 
-# 2. Install via ADB (if Android SDK installed)
-adb install sentinel-guard.apk
+# 2. Install dependencies
+flutter pub get
 
-# 3. Or manually install:
-# - Transfer APK to device
-# - Enable Unknown Sources in Settings
-# - Open APK file on device
+# 3. Build and run on connected device
+flutter run
+
+# 4. Or build APK for manual installation
+flutter build apk --debug
+# APK location: build/app/outputs/flutter-apk/app-debug.apk
 ```
+
+#### 📱 Manual Installation (If you have the APK)
+1. **Transfer APK** to your Android device
+2. **Enable Unknown Sources:** Settings → Apps → Special access → Install unknown apps
+3. **Install APK:** Open the APK file on your device
+4. **Launch:** Find "Sentinel Guard" in your app drawer
+
+**Note:** APK files are **not provided** in this repository. You must build them yourself using Flutter.
 
 ### 🛠️ Development Setup
 
@@ -154,10 +172,15 @@ cd SentinelGuard
 # 2. Install dependencies
 flutter pub get
 
-# 3. Run the app
+# 3. Run the app on connected device/emulator
 flutter run
 
-# 4. Build for release (optional)
+# 4. Build APK for manual installation (optional)
+flutter build apk --debug
+# APK will be created at: build/app/outputs/flutter-apk/app-debug.apk
+# Transfer this APK to your Android device for installation
+
+# 5. Build for release (optional - requires signing)
 flutter build apk --release
 ```
 
@@ -165,7 +188,7 @@ flutter build apk --release
 
 ## 🎬 Demo
 
-### 📺 Live Demo Video
+### 📺 Demo Video
 
 <div align="center">
 
@@ -179,6 +202,8 @@ flutter build apk --release
 
 *🎬 Complete app demonstration with live interface walkthrough!*
 
+**💡 Want to test the app yourself?** [Build it from source](#-development-setup) and run it on your device!
+
 </div>
 
 ### 🎮 Demo Credentials
@@ -186,9 +211,14 @@ flutter build apk --release
 | Credential | Value | Description |
 |------------|-------|-------------|
 | **Demo PIN** | `123456` | PIN for exiting kids mode |
-| **Demo Device** | "Alex's Phone" | Samsung Galaxy S24 Ultra |
-| **Demo Data** | 7 days | Realistic usage patterns |
+| **Demo Device** | "Alex's Phone" | Samsung Galaxy S24 Ultra (simulated) |
+| **Demo Data** | 7 days | Realistic usage patterns (mock data) |
 | **Features** | 45+ apps | Real Android app simulation |
+
+**🔧 To test these features:**
+1. **Build the app** using [Development Setup](#-development-setup)
+2. **Run on device/emulator** with `flutter run`
+3. **Explore all demo features** with realistic mock data
 
 ### 📸 Screenshots
 
