@@ -74,31 +74,44 @@ This demo serves as an excellent **portfolio piece** and **learning resource** f
 
 ## 📱 Installation
 
-### 📦 APK Build & Download
+### 📦 APK Download & Demo
 
 <div align="center">
 
-## 🚀 **BUILD YOUR OWN APK**
+## 🚀 **DOWNLOAD APK & WATCH DEMO**
 
-**Note:** APK files are not included in the repository. You'll need to build the APK yourself using Flutter.
+**[📱 DOWNLOAD APK (142.9 MB)](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file)** | **[🎬 WATCH YOUTUBE DEMO](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
 
-**[🎬 WATCH DEMO FIRST](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** | **[📖 BUILD INSTRUCTIONS](#-development-setup)**
+<div align="center">
+  <a href="https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file" target="_blank">
+    <img src="https://img.shields.io/badge/📱_DOWNLOAD_APK_(142.9_MB)-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+  <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/🎬_WATCH_DEMO_VIDEO-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video">
+  </a>
+</div>
+
+**Quick Access:**
+- **[🔗 MediaFire APK Download](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file)** - Direct APK download (142.9 MB)
+- **[🎬 YouTube Demo Video](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** - Watch app in action
 
 </div>
 
-#### ⚠️ **Why No Direct APK Download?**
+#### 📥 **APK Download Options**
 
-APK files are **build artifacts** that:
-- Are **not committed** to git repositories (see `.gitignore`)
-- **Change frequently** during development
-- Can be **large files** (150+ MB)
-- Should be **built fresh** for security
+**Option 1: Direct Download (Recommended)**
+- **[📱 MediaFire Download](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file)** - 142.9 MB APK file
+- **Ready to install** - No building required
 
-#### ✅ **How to Get the APK:**
-
+**Option 2: Build from Source**
 1. **Clone & Setup** the repository (see [Development Setup](#-development-setup))
 2. **Build the APK** using Flutter commands
 3. **Install on device** for testing
+
+**Why Build Option?** APK files are **build artifacts** that:
+- **Change frequently** during development
+- Should be **built fresh** for security and compatibility
+- Allow you to **customize** the build process
 
 **Quick Build Commands:**
 ```bash
@@ -124,12 +137,13 @@ flutter build apk --debug
 
 ### ⚡ Quick Start Guide
 
-#### 🚀 For Users (Test the Demo)
-1. **Watch the demo video** to see the app in action
-2. **Clone the repository** for development/testing
-3. **Build and run** on your device or emulator
+#### 🚀 For Users (Download & Install)
+1. **[📱 Download APK from MediaFire](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file)** (142.9 MB)
+2. **[🎬 Watch demo video](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** to see features
+3. **Install APK** on your Android device
+4. **Launch and explore** all demo features
 
-#### 🛠️ For Developers (Build & Test)
+#### 🛠️ For Developers (Build & Customize)
 ```bash
 # 1. Clone the repository
 git clone https://github.com/SujithClasher/SentinelGuard.git
@@ -144,15 +158,18 @@ flutter run
 # 4. Or build APK for manual installation
 flutter build apk --debug
 # APK location: build/app/outputs/flutter-apk/app-debug.apk
+# Transfer this APK to your Android device for installation
+
+# 5. Build for release (optional - requires signing)
+flutter build apk --release
 ```
 
-#### 📱 Manual Installation (If you have the APK)
-1. **Transfer APK** to your Android device
+#### 📱 Installation Steps (for Downloaded APK)
+1. **Download APK** from [MediaFire](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file)
 2. **Enable Unknown Sources:** Settings → Apps → Special access → Install unknown apps
-3. **Install APK:** Open the APK file on your device
+3. **Install APK:** Open the downloaded APK file on your device
 4. **Launch:** Find "Sentinel Guard" in your app drawer
-
-**Note:** APK files are **not provided** in this repository. You must build them yourself using Flutter.
+5. **Grant permissions** when prompted for full functionality
 
 ### 🛠️ Development Setup
 
@@ -188,11 +205,11 @@ flutter build apk --release
 
 ## 🎬 Demo
 
-### 📺 Demo Video
+### 📺 Demo Video & APK Download
 
 <div align="center">
 
-**[🎬 ▶️ WATCH DEMO ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)**
+**[🎬 ▶️ WATCH DEMO ON YOUTUBE](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** | **[📱 DOWNLOAD APK](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file)**
 
 <div align="center">
   <a href="https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd" target="_blank">
@@ -202,7 +219,7 @@ flutter build apk --release
 
 *🎬 Complete app demonstration with live interface walkthrough!*
 
-**💡 Want to test the app yourself?** [Build it from source](#-development-setup) and run it on your device!
+**💡 Want to test the app yourself?** [Download APK](#-installation) or [Build it from source](#-development-setup)!
 
 </div>
 
@@ -216,9 +233,10 @@ flutter build apk --release
 | **Features** | 45+ apps | Real Android app simulation |
 
 **🔧 To test these features:**
-1. **Build the app** using [Development Setup](#-development-setup)
+1. **Download APK** from [MediaFire](https://www.mediafire.com/file/zxy7v025exiirr6/app-debug.apk/file) or [Build the app](#-development-setup)
 2. **Run on device/emulator** with `flutter run`
-3. **Explore all demo features** with realistic mock data
+3. **[🎬 Watch demo video](https://youtube.com/shorts/p64nOcLEdRs?si=aGx_OaJAgbVoNDTd)** to see all features in action
+4. **Explore all demo features** with realistic mock data
 
 ### 📸 Screenshots
 
