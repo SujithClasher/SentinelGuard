@@ -22,12 +22,14 @@
 
 ## 📱 Download & Installation
 
-### 📱 APK Download & Demo Video
+### 📱 APK Download & Demo Videos
 <div align="center">
 
 **[🚀 DOWNLOAD APK - 168.6 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
 
-**[🎬 WATCH DEMO VIDEO](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[🎬 WATCH DEMO VIDEOS]**
+
+**[📹 Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
 
 </div>
 
@@ -39,6 +41,17 @@
 ### 🎬 Demo Videos Available
 - **[📹 Watch Repository Demo Video](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** - Complete app walkthrough
 - **[🎬 External Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Alternative demo
+
+### 📺 Video Player Demo View
+<div align="center">
+
+**[🎬 PLAY DEMO VIDEO](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+
+*Watch the complete app demonstration with live interface walkthrough*
+
+[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)
+
+</div>
 
 **⚠️ Important:** This is a **demo application** showcasing parental control UI with realistic mock data. It does not provide real device monitoring.
 
@@ -67,20 +80,20 @@
 ## ✨ Features
 
 ### 🎯 Demo Features Showcase
-- **Interactive Dashboard** - Beautiful Material Design 3 interface with "Alex's Phone" demo data
-- **Screen Time Visualization** - Realistic usage patterns and statistics display
-- **App Management Interface** - 45+ real Android apps with usage controls mockup
-- **Web Filtering Categories** - 10+ content categories with blocking simulation
-- **NSFW Scanner Demo** - Premium feature showcase with blur effects
-- **Activity Reports** - Weekly usage charts and browsing history simulation
+- **Interactive Dashboard** - Beautiful Material Design 3 interface with "Alex's Phone" demo data **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+- **Screen Time Visualization** - Realistic usage patterns and statistics display **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+- **App Management Interface** - 45+ real Android apps with usage controls mockup **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+- **Web Filtering Categories** - 10+ content categories with blocking simulation **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+- **NSFW Scanner Demo** - Premium feature showcase with blur effects **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+- **Activity Reports** - Weekly usage charts and browsing history simulation **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 
-### 👶 Kids Mode Launcher
+### 👶 Kids Mode Launcher **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 - Colorful, child-friendly interface design
 - Timer display and app grid layout
 - PIN-protected exit system (Demo PIN: `123456`)
 - Visual feedback and animations
 
-### 🌟 Premium Features Showcase
+### 🌟 Premium Features Showcase **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 - **Blur Effects Demo** - Visual inappropriate content protection simulation
 - **Feature Cards** - Premium upgrade prompts and comparisons
 - **Analytics Mockup** - Usage statistics and reporting interface
@@ -221,12 +234,18 @@ lib/
 
 ## 🎮 Demo & Testing
 
-### 📹 Demo Videos
+### 📹 Demo Videos & Player
 <div align="center">
 
-**[🎬 Watch Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 Watch External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
+**[🎬 WATCH DEMO VIDEOS]**
 
-*Complete app walkthrough showcasing all demo features!*
+**[📹 Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
+
+*🎬 Complete app walkthrough showcasing all demo features!*
+
+**[🎬 ▶️ PLAY DEMO VIDEO](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+
+*Watch live app interface demonstration*
 
 </div>
 
@@ -236,7 +255,7 @@ lib/
 - **Demo Data**: 7 days of realistic usage patterns and activity
 - **Features**: 45+ real Android apps, browsing history, screen time data
 
-### What You'll Experience
+### What You'll Experience **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 1. **Splash Screen** → Animated logo with Material Design 3
 2. **Onboarding Flow** → 3-page introduction to demo features
 3. **Setup Process** → Parent account creation with PIN
@@ -246,7 +265,7 @@ lib/
 7. **Web Filtering** → 10+ content categories with blocking simulation
 8. **Premium Showcase** → Feature comparisons and upgrade prompts
 
-### Test Scenarios
+### Test Scenarios **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 1. **Parent Dashboard**: View screen time stats, app usage, and activity feed
 2. **Kids Mode**: Launch from dashboard, see timer countdown, exit with PIN `123456`
 3. **App Management**: Search apps, set time limits, handle permission requests
@@ -416,7 +435,7 @@ This **demo application** showcases:
 - Realistic mock data systems
 - Production-quality code structure
 
-### 🎯 Demo Architecture
+### 🎯 Demo Architecture **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 - **Frontend-only** demonstration (no backend)
 - **Realistic mock data** for all features
 - **45+ real Android apps** with package names
@@ -424,7 +443,7 @@ This **demo application** showcases:
 - **Material Design 3** compliance
 - **Responsive layouts** for all screen sizes
 
-### 🚀 Built for Demonstration
+### 🚀 Built for Demonstration **[🎬 Video Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 - Perfect for **portfolio showcase**
 - **UI/UX design** presentation
 - **Flutter development** skills demo
