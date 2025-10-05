@@ -45,11 +45,32 @@
 ### 📺 Video Player Demo View
 <div align="center">
 
-**[🎬 PLAY DEMO VIDEO](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+## 🎬 **WATCH DEMO VIDEO ON GITHUB**
 
-*Watch the complete app demonstration with live interface walkthrough*
+**[🎬 ▶️ PLAY DEMO VIDEO NOW](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 
-[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)
+<div align="center">
+  <a href="https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎬_WATCH_VIDEO_ON_GITHUB-blue?style=for-the-badge&logo=github" alt="Watch Video on GitHub" width="300">
+  </a>
+</div>
+
+*🎬 Watch the complete app demonstration with live interface walkthrough directly on GitHub!*
+
+**📋 How to Watch:**
+1. **Click the blue button above** or **[visit video page](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+2. **GitHub will open the video player** automatically
+3. **Click play** to watch the full demo
+4. **Works on mobile and desktop**
+
+**🎥 Video Details:**
+- **Duration:** Complete app walkthrough
+- **Quality:** High-resolution demo
+- **Content:** Live interface demonstration
+- **Size:** ~39MB (loads progressively)
+
+**Alternative Demo Videos:**
+- **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Google Drive version
 
 </div>
 
@@ -234,18 +255,24 @@ lib/
 
 ## 🎮 Demo & Testing
 
-### 📹 Demo Videos & Player
+### 📹 Demo Videos & GitHub Player
 <div align="center">
 
-**[🎬 WATCH DEMO VIDEOS]**
+**[🎬 WATCH DEMO VIDEOS ON GITHUB]**
 
 **[📹 Repository Demo](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)** | **[🎬 External Demo](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
 
+<div align="center">
+  <a href="https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎬_WATCH_DEMO_VIDEO_ON_GITHUB-blue?style=for-the-badge&logo=github" alt="Watch Demo Video on GitHub">
+  </a>
+</div>
+
 *🎬 Complete app walkthrough showcasing all demo features!*
 
-**[🎬 ▶️ PLAY DEMO VIDEO](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
+**[🎬 ▶️ PLAY VIDEO NOW](https://github.com/SujithClasher/SentinelGuard/blob/master/SentinelGuard%20by%20Team%20Monad.mp4)**
 
-*Watch live app interface demonstration*
+*Watch live app interface demonstration directly on GitHub*
 
 </div>
 
