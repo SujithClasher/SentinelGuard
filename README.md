@@ -141,16 +141,18 @@ lib/
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="300" style="margin: 10px;">
-  <img src="screenshots/kids_mode.png" alt="Kids Mode" width="300" style="margin: 10px;">
-  <img src="screenshots/app_control.png" alt="App Control" width="300" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/dashboard.png" alt="Dashboard" width="300" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/kids_mode.png" alt="Kids Mode" width="300" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/app_control.png" alt="App Control" width="300" style="margin: 10px;">
 </div>
 
 <div align="center">
-  <img src="screenshots/web_filtering.png" alt="Web Filtering" width="300" style="margin: 10px;">
-  <img src="screenshots/nsfw_scanner.png" alt="NSFW Scanner" width="300" style="margin: 10px;">
-  <img src="screenshots/premium_features.png" alt="Premium Features" width="300" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/web_filtering.png" alt="Web Filtering" width="300" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/nsfw_scanner.png" alt="NSFW Scanner" width="300" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/SujithClasher/SentinelGuard/master/screenshots/premium_features.png" alt="Premium Features" width="300" style="margin: 10px;">
 </div>
+
+**📂 View all screenshots**: [screenshots/](https://github.com/SujithClasher/SentinelGuard/tree/master/screenshots) folder
 
 ## 🚀 Getting Started
 
