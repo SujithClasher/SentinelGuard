@@ -22,13 +22,37 @@
 ## 📱 Download & Installation
 
 ### APK Download
+<div align="center">
+
+**[🚀 DOWNLOAD APK NOW - 81.4 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+
 [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/SujithClasher/SentinelGuard/releases/download/v1.0.0/sentinel-guard-v1.0.0.apk)
 
-**Installation Steps:**
-1. Download the APK file from the link above
-2. Enable "Install from Unknown Sources" in Android settings
-3. Open the downloaded APK file and follow installation prompts
-4. Launch the app and complete the setup process
+</div>
+
+### ⚡ Quick Install (3 Steps)
+1. **[Download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)** (81.4 MB)
+2. **Install**: Settings → Apps → Special access → Install unknown apps → Enable for your browser
+3. **Launch**: Open downloaded APK file → Install → Open app
+
+### 🎬 Before Installing - Watch Demo
+**[🎬 See App Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)** - Complete walkthrough of all features!
+
+**🔗 Direct Links:**
+- **Primary Download**: [sentinel-guard-debug.apk](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)
+- **Alternative**: [GitHub Release](https://github.com/SujithClasher/SentinelGuard/releases) (when available)
+
+**Full Installation Guide**: [Detailed Steps](#detailed-installation-steps)
+
+## 📋 Detailed Installation Steps<a id="detailed-installation-steps"></a>
+
+1. **Download the APK file** using either:
+   - **[🚀 DOWNLOAD APK NOW - 81.4 MB](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+   - Click the "Download APK" badge above (requires GitHub release)
+2. **Enable "Install from Unknown Sources"** in Android settings (Settings → Apps → Special access → Install unknown apps)
+3. **Open the downloaded APK file** and follow the installation prompts
+4. **Launch the app** and complete the setup process
+5. **Grant permissions** for full functionality (Usage Stats, Overlay, etc.)
 
 ### System Requirements
 - **Android Version**: 8.0 (API 26) or higher
@@ -131,10 +155,22 @@ lib/
 ## 🚀 Getting Started
 
 ### For Users (APK Installation)
-1. **Download and install the APK** from the link above
-2. **Launch the app** and complete the setup wizard
-3. **Grant necessary permissions** for full functionality
-4. **Configure child profiles** and monitoring settings
+
+**⚡ FAST DOWNLOAD** (81.4 MB): **[Click here to download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+
+*Alternative*: [GitHub Release](https://github.com/SujithClasher/SentinelGuard/releases) (when available)
+2. **Install the APK**:
+   - Enable "Install from Unknown Sources" in Settings
+   - Open the downloaded `.apk` file
+   - Follow installation prompts
+3. **Launch and Setup**:
+   - Open Sentinel Guard from app drawer
+   - Complete the initial setup wizard
+   - Grant necessary permissions (Usage Stats, Overlay)
+4. **Configure Features**:
+   - Set up child profiles
+   - Configure app permissions
+   - Enable web filtering categories
 
 ### For Developers (Source Code)
 
@@ -182,14 +218,33 @@ lib/
 
 ## 🎮 Demo & Testing
 
+### 📹 App Demo Video
+<div align="center">
+
+**[🎬 Watch Demo Video](https://drive.google.com/file/d/1VMnrHRDgMloydAC2Boe7ylFpo-toHmvJ/view)**
+
+*See the app in action with a complete walkthrough of all features!*
+
+</div>
+
 ### Demo Credentials
 - **Parent PIN**: `123456` (for exiting kids mode)
 - **Demo Data**: Pre-loaded with realistic usage data for testing
 - **Test Device**: "Alex's Phone" with 45+ installed apps
 
+### What You'll See After Installation
+1. **Splash Screen** → Animated logo with gradient background
+2. **Onboarding** → 3-page introduction to app features
+3. **Setup Screen** → Create parent account with PIN
+4. **Parent Dashboard** → Screen time: 4h 35m, 12 blocked apps, 3 requests pending
+5. **Kids Mode** → Colorful launcher with approved apps and timer
+6. **App Control** → 45+ real apps (YouTube, Instagram, Discord, etc.)
+7. **Web Filtering** → Content categories with browsing history
+8. **Premium Features** → Upgrade prompts and feature comparisons
+
 ### Test Scenarios
 1. **Parent Dashboard**: View screen time stats, app usage, and activity feed
-2. **Kids Mode**: Launch from dashboard, see timer countdown, exit with PIN
+2. **Kids Mode**: Launch from dashboard, see timer countdown, exit with PIN `123456`
 3. **App Management**: Search apps, set time limits, handle permission requests
 4. **Web Filtering**: Toggle content categories, view browsing history
 5. **Premium Features**: Explore upgrade options and premium functionality
