@@ -158,7 +158,11 @@ lib/
 
 ### For Users (APK Installation)
 
-**⚡ FAST DOWNLOAD** (81.4 MB): **[Click here to download APK](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+**⚡ FAST DOWNLOAD** (81.4 MB):
+
+**[🚀 DOWNLOAD APK NOW](https://github.com/SujithClasher/SentinelGuard/raw/master/build/app/outputs/flutter-apk/app-debug.apk)**
+
+*💡 Direct download - no waiting, instant access*
 
 *Alternative*: [GitHub Release](https://github.com/SujithClasher/SentinelGuard/releases) (when available)
 2. **Install the APK**:
